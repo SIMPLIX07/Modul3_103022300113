@@ -111,6 +111,7 @@ namespace jurnal1
         {
             list.Add("8");
             label1.Text += "8";
+
         }
 
         private void button3_Click(object sender, EventArgs e)
